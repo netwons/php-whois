@@ -13,6 +13,7 @@
 				<td>
 					<select name="suffix" id="">
 						<option value=".com">.com</option>
+						<option value=".ir">.ir</option>
 						<option value=".in">.in</option>
 						<option value=".co.in">.co</option>
 						<option value=".net">.net</option>
@@ -20,8 +21,6 @@
 						<option value=".biz">.biz</option>
 						<option value=".info">.info</option>
 						<option value=".tv">.tv</option>
-						<option value=".ir">.ir</option>
-						
 					</select>
 				</td>
 				<tr align="right" colspan="3">
