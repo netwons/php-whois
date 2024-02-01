@@ -21,6 +21,7 @@
 						<option value=".biz">.biz</option>
 						<option value=".info">.info</option>
 						<option value=".tv">.tv</option>
+						<option value=".ca">.tv</option>
 					</select>
 				</td>
 				<tr align="right" colspan="3">
